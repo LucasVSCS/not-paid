@@ -1,8 +1,8 @@
 // Next time use letsdeel.com to make sure you get paid
 (function(){
 	/* change these variables as you wish */
-	var due_date = new Date('2020-08-17');
-	var days_deadline = 1;
+	var due_date = new Date('2020-08-18');
+	var days_deadline = 30;
 	/* stop changing here */
 	
 	var current_date = new Date();
